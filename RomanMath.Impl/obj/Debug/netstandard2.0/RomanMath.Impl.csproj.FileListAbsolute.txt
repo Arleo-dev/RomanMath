@@ -1,0 +1,10 @@
+D:\android\RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.deps.json
+D:\android\RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.dll
+D:\android\RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.pdb
+D:\android\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csproj.AssemblyReference.cache
+D:\android\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.GeneratedMSBuildEditorConfig.editorconfig
+D:\android\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfoInputs.cache
+D:\android\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfo.cs
+D:\android\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csproj.CoreCompileInputs.cache
+D:\android\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.dll
+D:\android\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.pdb

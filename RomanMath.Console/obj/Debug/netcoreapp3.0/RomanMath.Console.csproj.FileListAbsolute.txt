@@ -1,0 +1,17 @@
+D:\android\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.exe
+D:\android\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.deps.json
+D:\android\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.json
+D:\android\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.dev.json
+D:\android\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.dll
+D:\android\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.pdb
+D:\android\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.dll
+D:\android\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.pdb
+D:\android\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.AssemblyReference.cache
+D:\android\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\android\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfoInputs.cache
+D:\android\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfo.cs
+D:\android\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CoreCompileInputs.cache
+D:\android\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.dll
+D:\android\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.pdb
+D:\android\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.genruntimeconfig.cache
+D:\android\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CopyComplete

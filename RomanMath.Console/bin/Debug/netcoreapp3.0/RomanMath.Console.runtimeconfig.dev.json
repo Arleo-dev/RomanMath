@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Arlekino\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Arlekino\\.nuget\\packages"
+    ]
+  }
+}

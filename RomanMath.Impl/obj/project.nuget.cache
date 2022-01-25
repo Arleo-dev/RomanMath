@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sys+nKMrUBxqT0TXko1uvynIIrQ2eCi+5grBDPreEKHQjMLPQl/FcHEVKyCg7Jq/nFL+wnwprAcTCyg1i0vMpw==",
+  "success": true,
+  "projectFilePath": "D:\\android\\RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arlekino\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Arlekino\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
